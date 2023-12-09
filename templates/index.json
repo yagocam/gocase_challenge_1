@@ -6,7 +6,11 @@
         "heading": {
           "type": "heading",
           "settings": {
+<<<<<<< HEAD
             "heading": "Browse our latest products",
+=======
+            "heading": "PQPPPPPPPPPPPPPPPPPPPPPPP",
+>>>>>>> 0ec6fcf680d6a3bece670f0b03955ddf58ab261b
             "heading_size": "h0"
           }
         },
@@ -26,7 +30,10 @@
         "heading",
         "button"
       ],
+<<<<<<< HEAD
       "disabled": true,
+=======
+>>>>>>> 0ec6fcf680d6a3bece670f0b03955ddf58ab261b
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "large",
@@ -73,4 +80,8 @@
     "image_banner",
     "featured_collection"
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0ec6fcf680d6a3bece670f0b03955ddf58ab261b
