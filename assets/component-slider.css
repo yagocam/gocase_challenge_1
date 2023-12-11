@@ -390,3 +390,18 @@ slider-component.slider-component-full-width {
 .slider-button--prev:not([disabled]):hover .icon {
   transform: rotate(90deg) scale(1.1);
 }
+slider-button--prev,
+.slider-button--next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  /* Ajuste a posição horizontal (left/right) conforme necessário */
+}
+
+.slider-button--prev {
+  left: 10px; /* Ajuste conforme necessário */
+}
+
+.slider-button--next {
+  right: 10px; /* Ajuste conforme necessário */
+}

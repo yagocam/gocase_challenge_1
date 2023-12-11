@@ -6,12 +6,13 @@
         "template--21750872670516__9907c751-3d1a-4cc2-8b4c-596b6fc8a216-slide-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_150602907.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
@@ -20,17 +21,126 @@
             "text_alignment_mobile": "center"
           }
         },
-        "template--21750872670516__9907c751-3d1a-4cc2-8b4c-596b6fc8a216-slide-2": {
+        "39609e96-291d-4125-a2ef-1c17e876cf33": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_150459310.png",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "",
             "link": "",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "34d59da1-2fb2-49f2-9cfc-af7e4032316f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_150245780.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a5d74c69-f2d2-40f5-b74b-77f50e09745f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_145928357.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "af758d8d-e8af-4954-ab2c-81b17cd341bf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_145844436.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "c835b0a9-6888-464c-80e4-355bd4f445e7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_145759962.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "cfef8114-7651-48e8-ab32-445697ee0bbc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_145042057.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a6f23725-29ab-4b6d-be45-e07bb82eb90e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imagem_2023-12-09_144759292.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
@@ -40,50 +150,80 @@
       },
       "block_order": [
         "template--21750872670516__9907c751-3d1a-4cc2-8b4c-596b6fc8a216-slide-1",
-        "template--21750872670516__9907c751-3d1a-4cc2-8b4c-596b6fc8a216-slide-2"
+        "39609e96-291d-4125-a2ef-1c17e876cf33",
+        "34d59da1-2fb2-49f2-9cfc-af7e4032316f",
+        "a5d74c69-f2d2-40f5-b74b-77f50e09745f",
+        "af758d8d-e8af-4954-ab2c-81b17cd341bf",
+        "c835b0a9-6888-464c-80e4-355bd4f445e7",
+        "cfef8114-7651-48e8-ab32-445697ee0bbc",
+        "a6f23725-29ab-4b6d-be45-e07bb82eb90e"
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "d153579d-01cf-4a0a-83ce-315d6aa209e8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21750872670516__d153579d-01cf-4a0a-83ce-315d6aa209e8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Frete Fixo de RS$3,90 <\/strong>acima de R$99,00* para pedidos com capinha -<a href=\"https:\/\/suporte.gocase.com.br\/hc\/pt-br\/articles\/5689025179917-FRETE-GR%C3%81TIS?_gl=1*rmzno9*_gcl_au*MTQzMzc0NjgwNS4xNzAyMjU1MDIz\" target=\"_blank\" title=\"https:\/\/suporte.gocase.com.br\/hc\/pt-br\/articles\/5689025179917-FRETE-GR%C3%81TIS?_gl=1*rmzno9*_gcl_au*MTQzMzc0NjgwNS4xNzAyMjU1MDIz\"> Consulte o regulamento<\/a>",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "template--21750872670516__d153579d-01cf-4a0a-83ce-315d6aa209e8-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-b7f0fb42-5d17-4efa-ab71-7108803603ed",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
+        "title": "<strong>            Ofertas e Lançamentos<\/strong>",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "all",
         "products_to_show": 8,
         "columns_desktop": 4,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
         "color_scheme": "background-1",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
+        "swipe_on_mobile": true,
+        "padding_top": 16,
         "padding_bottom": 36
       }
     }
   },
   "order": [
     "9907c751-3d1a-4cc2-8b4c-596b6fc8a216",
+    "d153579d-01cf-4a0a-83ce-315d6aa209e8",
     "featured_collection"
   ]
 }
