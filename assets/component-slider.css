@@ -382,36 +382,7 @@ slider-component.slider-component-full-width {
 .slider-button--prev .icon {
   transform: rotate(90deg);
 }
-.slider-button--prev  {
-  color: red;
-}
-.slider-button--next  {
-  color: red;
-}
-.overlay-div {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 50px; /* Ajuste conforme necessário */
-  background-color: rgba(255, 0, 0, 0.5); /* Cor e transparência conforme necessário */
-  z-index: 999;
-}
 
-.left-overlay {
-  left: 0;
-}
-
-.right-overlay {
-  right: 0;
-}
-
-.down-overlay {
-  /* Ajuste conforme necessário para a posição vertical */
-  top: auto;
-  bottom: 0;
-  left: 50%; /* Ajuste conforme necessário para a posição horizontal */
-  transform: translateX(-50%);
-}
 
 .slider-button--next:not([disabled]):hover .icon {
   transform: rotate(-90deg) scale(1.1);

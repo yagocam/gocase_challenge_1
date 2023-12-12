@@ -511,7 +511,6 @@ h6:empty {
 }
 
 .link--text:hover {
-  color: rgba(var(--color-foreground), 0.75);
 }
 
 .link-with-icon {
@@ -621,7 +620,6 @@ details > * {
 .underlined-link:hover,
 .customer a:hover,
 .inline-richtext a:hover {
-  color: rgb(var(--color-link));
   text-decoration-thickness: 0.2rem;
 }
 
@@ -1185,7 +1183,6 @@ deferred-media {
 /* component-button */
 /* Button - default */
 
-.button--secondary,
 .button--tertiary {
   --color-button: var(--color-secondary-button);
   --color-button-text: var(--color-secondary-button-text);
